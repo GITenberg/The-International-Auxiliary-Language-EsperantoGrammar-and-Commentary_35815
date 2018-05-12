@@ -1,0 +1,29 @@
+_repo: The-International-Auxiliary-Language-EsperantoGrammar-and-Commentary_35815
+_version: 0.1.0
+alternative_title: 'The International Auxiliary Language Esperanto: Grammar and Commentary'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cox, George
+    birthdate: 1838
+    deathdate: 1909
+    gutenberg_agent_id: '37916'
+    url: http://www.gutenberg.org/2009/agents/37916
+    wikipedia: http://eo.wikipedia.org/wiki/George_Cox
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2011-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35815'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Esperanto -- Grammar'
+- !lcc 'PM'
+title: 'The International Auxiliary Language Esperanto: Grammar & Commentary'
+url: http://www.gutenberg.org/ebooks/35815
