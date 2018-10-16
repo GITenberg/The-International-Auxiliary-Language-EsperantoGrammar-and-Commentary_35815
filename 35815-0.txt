@@ -13,6 +13,7 @@ Title: The International Auxiliary Language Esperanto
 Author: George Cox
 
 Release Date: April 10, 2011 [EBook #35815]
+[Last updated: October 4, 2014]
 
 Language: English
 
@@ -1831,7 +1832,7 @@ a reflexive force (iĝ-i, _to become_, _to be made_), (par. 280):
 
 ruĝ-a, _red_, ruĝ-iĝ-i, _to become red_, _to blush_.
 
-riĉ-a, _rich_, riĉ-ig-i, _to become_, or _grow rich_, or _to
+riĉ-a, _rich_, riĉ-iĝ-i, _to become_, or _grow rich_, or _to
 get rich_.
 
 -IL- Denotes the tool or instrument or means by which something is
